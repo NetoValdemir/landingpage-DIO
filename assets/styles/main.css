@@ -1,0 +1,19 @@
+body {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background: linear-gradient(#1e1e1e 100%, #363636 70%, #1e1e1e 100%);
+    color: #ffff;
+}
+
+#professional-challenges {
+    align-items: center;
+    justify-content: center;
+}
+
+.imagem {
+    align-items: center;
+    justify-content: center;
+}
